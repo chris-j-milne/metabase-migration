@@ -82,9 +82,24 @@ python metabase_toolkit.py show-sql 12345
 - Base path: `/api/...`
 - Saved questions are called **cards** in the API (`/api/card`)
 - Collections are **folders** in the UI (`/api/collection`)
-- Native (SQL) queries have `dataset_query.type == "native"` and SQL at `dataset_query.native.query`
-- GUI queries (built with the query builder) have `dataset_query.type == "query"` — no raw SQL to scan
 - `last_query_start` on a card gives the last execution timestamp
+
+**dataset_query format (two variants — toolkit handles both):**
+
+The API now returns the newer MBQL v2 format for most cards:
+```
+dataset_query.stages[0]['native']        # MBQL v2 (new) — lib/type = "mbql.stage/native"
+dataset_query.native.query               # Old format — still returned by some cards
+```
+The `extract_sql()` and `is_native()` functions in `metabase_toolkit.py` handle both transparently.
+
+**Writing SQL back to Metabase (`PUT /api/card/:id`)** — confirmed working. Minimal payload:
+```python
+requests.put(f"{METABASE_URL}/api/card/{card_id}",
+             headers=api_headers(),
+             json={"dataset_query": dq})
+```
+Where `dq` is the full `dataset_query` dict with the modified SQL written back into `dq['stages'][0]['native']` (or `dq['native']['query']` for old-format cards). Fetch the card first, mutate in place, PUT the whole `dataset_query` back — do not reconstruct it from scratch.
 
 ## What "Deprecate" Means
 
@@ -153,13 +168,14 @@ Triggered once BigQuery tables are populated. For each question in `syntax_clean
 2. Run converted SQL against **BigQuery** via Metabase → capture result set
 3. Compare with these rules:
    - Sort both result sets before comparing (row order may differ between engines)
+   - **Row count must match exactly** — all Metabase queries are full refreshes (no incremental logic), so any row count difference is a real problem, not noise. Fail immediately if counts differ.
    - Float tolerance of ±0.0001 for computed numeric columns
-   - Row count check first — if counts differ by more than 1%, flag as failed immediately
+   - SUM/COUNT of key numeric columns within ±0.01% (float rounding only)
    - Column-level value comparison for non-float columns
 4. **Pass** → set `current_status = data_check_passed`; queue for `apply-migration`
 5. **Fail** → set `current_status = data_check_failed`; write `card{N}_datadiff.txt` summarising the discrepancy for human review
 
-**Timing:** Run comparisons between Snowflake refresh windows (Snowflake refreshes 3× daily). Both queries should be run in the same window to avoid live-data drift causing false failures.
+**Timing:** Run comparisons between Snowflake refresh windows (Snowflake refreshes **4× daily**). Both queries should be run in the same window to avoid live-data drift causing false failures. Each window is ~6 hours; aim to run ~45 minutes after a refresh completes to let the pipeline settle.
 
 **Human review loop for failures:**
 1. Reviewer opens `card{N}_datadiff.txt` and `card{N}_adj_sql.txt`
@@ -226,10 +242,26 @@ python metabase_toolkit.py apply-migration 37
 python metabase_toolkit.py apply-migration --batch -i converted/migration_status.csv
 ```
 
+## Partner Context
+
+**Rittman Analytics** are the delivery partner for the underlying data platform migration (dbt models, HiTouch/reverse ETL). Key facts relevant to this toolkit:
+
+- They use the **Wire framework** (Claude Code plugin) for AI-assisted dbt generation and migration
+- The migration is designed to be a **like-for-like lift-and-shift** with ~100% data accuracy
+- **All field names will be consistent** between Snowflake and BigQuery — no column renaming to worry about
+- Known accuracy exceptions (affect dbt layer only, not Metabase):
+  - Incremental models where historical data has different logic to the current model definition
+  - Comparisons that coincide with a Snowflake refresh window
+- The blocker for `apply-migration` is getting the BigQuery project/dataset names from Rittman to populate `schema_map.json`
+
+**Wire skills available in this session** — most relevant to this project:
+- `wire:metabase-migration-generate/review/validate`
+- `wire:equivalency-validate` — for data comparison workflow
+- `wire:migration-specialist` agent
+
 ## Development Notes
 
 - Python 3.8+ required
 - The toolkit is intentionally a single-file script for portability
-- Read-only Metabase API calls only so far — `apply-migration` (not yet built) will be the first write
-- When adding fix/update functionality, use `PUT /api/card/:id` with an updated `dataset_query` payload
+- **Write access to Metabase confirmed** — `PUT /api/card/:id` tested successfully. See API Notes above for correct payload format.
 - The `_call_claude()` function uses the Anthropic API; to switch to another LLM swap that function only — the prompt and surrounding logic are model-agnostic
