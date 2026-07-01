@@ -1,0 +1,8 @@
+{
+  "_comment": "Maps Snowflake three-part prefixes (database.schema) to BigQuery project.dataset equivalents. Populate when the schema mapping is confirmed. The apply-migration command substitutes these at apply time. Add new entries as more queries are converted.",
+
+  "CARWOW.SMC_OPERATIONS":                  "TBD",
+  "UK.ENHANCED":                            "TBD",
+  "carwow.marketing_performance_reporting":  "TBD",
+  "carwow.gyc_performance_metrics":          "TBD"
+}

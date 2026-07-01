@@ -1,0 +1,690 @@
+dashboard_id,dashboard_name,dashboard_folder,question_id,question_name
+1718,12 Gebrauchtwagen,Alexa von Bogdandy's Personal Collection,9835,{EXTERNAL) 12Gebrauchtwagen SMC Report  (Daily)
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13438,Sites w/ E2S <10% Rolling 28 days
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13442,Saving
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13439,Configurations & C2E (AM Filter hier nicht anwendbar)
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13443,Share of dealers offering leasing
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13435,Chargabeable Enquiries Share by product type - Duplicate
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13437,Share of Users w/x Offers
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13444,AVCOD New
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13450,Sales & E2S 
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13440,Chargeable Enquiries
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13440,Chargeable Enquiries
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,12742,Model Performance lx days
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,14391,Model Pricing Coverage
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13930,Churn Rate
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,15513,Pausierte Händler (letzte Woche)
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,8977,Dealership Performance Report
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,15678,Missing Models
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,15941,Revenue Detailed
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13929,Dealership_by_State - change - Duplicate
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,16239,Dealerships Change
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13451,Radiused Dealers - Duplicate
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,13449,Dealership_by_State - Duplicate - Duplicate
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,25411,Average Pricing Coverage per Make
+2575,Account Management Dashboard,Carwow / Germany / MARKETPLACE / Commercial reporting ,25609,AVCOD old
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28120,Sites w/ E2S <10% Rolling 28 days
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28126,Saving
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28119,Share of dealers offering leasing
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28122,Configurations & C2E (AM Filter hier nicht anwendbar)
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28125,AVCOD New
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28129,Chargeable Enquiries
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28132,Model Performance lx days
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28118,Model Pricing Coverage
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28131,Churn Rate
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28133,Pausierte Händler (letzte Woche)
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28121,Dealership Performance Report
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28135,Missing Models
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28123,Revenue Detailed
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28136,Dealership_by_State - change - Duplicate
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28130,Dealerships Change
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28127,Radiused Dealers - Duplicate
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28117,Dealership_by_State - Duplicate - Duplicate
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28128,Average Pricing Coverage per Make
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28138,AVCOD old
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28137,Chargabeable Enquiries Share by product type - Duplicate
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28124,Share of Users w/x Offers
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28134,Sales & E2S 
+3862,Account Management Dashboard - Duplicate,Salome Hörmann's Personal Collection,28129,Chargeable Enquiries
+34,AF Dash,Alex Foster's Personal Collection,4615,UK: Daily Funnel by Channel
+34,AF Dash,Alex Foster's Personal Collection,4616,UK: DDA ROAS PAID Channel
+34,AF Dash,Alex Foster's Personal Collection,5018,Last 2 Days - No Contact from Dealer
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19438,Sign Ups
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19439,Completed Listings
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19440,Uploads
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19441,Gross Sales
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19442,Net Sales
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19443,Total Auction Bids and Bids Per Listing
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19444,Fees
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19445,Uploads by Mileage Band
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19446,Uploads by Age Band
+3235,Auction Performance,Carwow / UK / SMC Trading / Laura B,19447,Valuation Band
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17392,WTD Completed Listings
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17394,WTD Uploads
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17395,Uploads by Day
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17397,MTD Total uploads
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17398,MTD Total daily uploads
+3004,Auction Success,Carwow / UK / SMC Trading / Laura B,17399,WTD CL2U
+3928,BAM Pausation Tracker,Burak Yilmaz's Personal Collection,28315,BAM Pausation Tracker - BAM Pausation Reasons
+3928,BAM Pausation Tracker,Burak Yilmaz's Personal Collection,28282,BAM Pausation Tracker - BAM Comments
+3202,Black Friday DE,Our analytics (root),19240,Black Friday DE
+3202,Black Friday DE,Our analytics (root),19241,Models
+3202,Black Friday DE,Our analytics (root),19242,DE Stat
+3202,Black Friday DE,Our analytics (root),19307,bf
+3202,Black Friday DE,Our analytics (root),19308,Unique Dealers
+3202,Black Friday DE,Our analytics (root),19603,"Zyte Vehicle Scrapes, Sorted by Scrape Week descending"
+3202,Black Friday DE,Our analytics (root),19669,EV Cars DE Black Friday Sale & RRP
+2509,Brand Performance,Philipp Absmeier's Personal Collection,13168,Configs DE
+2509,Brand Performance,Philipp Absmeier's Personal Collection,13335,DE 2024 CEs per Make
+2509,Brand Performance,Philipp Absmeier's Personal Collection,13366,Brand Insights DE 2024
+3565,Cancellation Reason by Month,Our analytics (root),22078,Cancellation Reason by Month
+3565,Cancellation Reason by Month,Our analytics (root),22079,Raw Cancellation Rate by Month
+3400,Carsa Listing Info,Our analytics (root),20923,Carsa Listing Info
+1,Code quality ,Carwow / Engineering,3,Code quality by Repo over time
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9473,DE: Supply Health Tracking_ Sites
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9474,DE: Supply Health Tracking_ Stock Dealers
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9475,"DE: Supply Health Tracking_ Sites, Filtered by DATE is yesterday"
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9476,Stock Supply (New & Used)
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9477,DoD Total Stock live
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9881,MTD Leasing CEs vs Target
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9879,MTD Total CEs vs Target
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9883,MTD Retail CEs vs Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9884,MTD Used CEs vs Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9889,MTD CEs  vs. Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9889,MTD CEs  vs. Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9889,MTD CEs  vs. Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,9889,MTD CEs  vs. Target - Modified
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,10039,DE: Daily Funnel + DAILY CES TARGET
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,17689,STOCK_LIVE
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,17722,Used Live (PLP)
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,23565,DE: Daily Funnel - New Data Model - Yday CEs - Used
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,23564,DE: Daily Funnel - New Data Model - Yday CEs - Leasing
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,23563,DE: Daily Funnel - New Data Model - Yday CEs
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,23566,DE: Daily Funnel - New Data Model - Yday CEs - Factory
+1651,Commercial Dashboard,Carwow / Germany / MARKETPLACE,23567,DE: Daily Funnel - New Data Model - Weekly
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12213,Configurations
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12212,Chargabeable Enquiries
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12214,Chargabeable Enquiries Share by product type
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12216,Sales & E2S
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12220,Radiused Dealers
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12222,Sites w/ E2S <10% Rolling 28 days
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12224,AVCOD
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12226,Share of Users w/x Offers
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12278,Saving
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12640,Share of dealers offering leasing
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12742,Model Performance lx days
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12742,Model Performance lx days
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,13432,Revenue
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12277,Dealership_by_State - change test - Duplicate
+2476,"Commercial Dashboard OUTDATED, don't use",Carwow / Germany / MARKETPLACE / Commercial reporting ,12219,Dealership_by_State - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13940,Chargeable Enquiries - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13934,Configurations & C2E (Dealership Filter hier nicht anwendbar) - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13942,Chargabeable Enquiries Share by product type - Duplicate - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13940,Chargeable Enquiries - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13930,Churn Rate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13939,Dealership_by_State - change - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13931,Dealership_by_State - Duplicate - Duplicate - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13935,Share of Users w/x Offers - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13938,Radiused Dealers - Duplicate - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13937,Saving - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13932,Share of dealers offering leasing - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13933,Sites w/ E2S <10% Rolling 28 days - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13941,Sales & E2S  - Duplicate
+2674,Commercial Dashboard Test - Duplicate,Carwow / Germany / MARKETPLACE / Commercial reporting ,13936,AVCOD - Duplicate
+2410,Commercial OKRs Q3,Our analytics (root),12123,SMC DE - % of listings with +1 / +3 offers
+1057,Commercial Workshop,Our analytics (root),6660,Salestrail Calls - today
+3532,Commissions Jan 26,Carwow / Operations / Commission Calc. + Agent KPIs / Q1 26 / OLD,21386,"Uploads 2, Jan26"
+3532,Commissions Jan 26,Carwow / Operations / Commission Calc. + Agent KPIs / Q1 26 / OLD,21748,2
+467,Content with cobwebs,Usage analytics,4549,Dashboards without recent views
+467,Content with cobwebs,Usage analytics,4519,Questions without recent views
+467,Content with cobwebs,Usage analytics,4525,Questions that don't belong to a dashboard
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14819,E. £2.5-7.5k Low
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14820,B. £2.5-5k High
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14821,C. £5-7.5k High
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14819,E. £2.5-7.5k Low
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14851,D. £7.5-12.5k High
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14852,F. £7.5-10k Low
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14853,G. £10-12.5k Low
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14854,H. £12.5-15k
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14855,I. £15-20k
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14856,J. £20-30k
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14857,K. £30-50k
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14858,L. £50k+
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14918,G. £10-12.5k Low - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14919,A. £0-2.5k - CL2U - Modified
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14920,B. £2.5-5k High - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14921,C. £5-7.5k High - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14922,D. £7.5-12.5k High - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14923,F. £7.5-10k Low - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14924,E. £2.5-7.5k Low - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14925,H. £12.5-15k - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14926,I. £15-20k - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14927,J. £20-30k - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14928,K. £30-50k - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,14929,L. £50k+ - CL2U
+2872,Conversion ,Carwow / UK / SMC Trading / Laura B,19702,No Val
+2740,Conversion by Day,Our analytics (root),14257,Conversion by Day
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14125,CL2U by Price Band
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14126,S2CL by Price Band
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14127,U2S by Price Band
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14128,Sale 2 Collection by Price Band
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14224,VAL/RES/BID vs CAP
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14225,Val vs Max bid
+2707,Conversion by Price Band,Carwow / UK / SMC Trading / Laura B,14226,Val vs Max bid £
+469,Dashboard overview,Usage analytics,4551,Dashboard metadata
+469,Dashboard overview,Usage analytics,4527,Dashboard views per month
+469,Dashboard overview,Usage analytics,4559,Most active people on this dashboard
+469,Dashboard overview,Usage analytics,4526,Recent activity on dashboard
+469,Dashboard overview,Usage analytics,4508,Subscriptions on this dashboard
+469,Dashboard overview,Usage analytics,4558,Questions in this dashboard
+925,Dashboard subscriptions and alerts,Usage analytics,6463,Active dashboard subscriptions
+925,Dashboard subscriptions and alerts,Usage analytics,6462,Alerts
+2938,Days between events,Carwow / UK / SMC Trading / Laura B,11419,Days 2 event
+2938,Days between events,Carwow / UK / SMC Trading / Laura B,16996,Signup to Gross Sale
+2938,Days between events,Carwow / UK / SMC Trading / Laura B,16997,Sign up to Net Sale
+3796,Embedding Usage,Usage analytics,27233,Authenticated views
+3796,Embedding Usage,Usage analytics,27230,Unique users
+3796,Embedding Usage,Usage analytics,27240,Most viewed authenticated embeds
+3796,Embedding Usage,Usage analytics,27229,Guest views
+3796,Embedding Usage,Usage analytics,27239,Most viewed guest embeds
+3796,Embedding Usage,Usage analytics,27237,Views by embedding client
+3796,Embedding Usage,Usage analytics,27236,Views by auth method
+3796,Embedding Usage,Usage analytics,27228,Tenants with most views
+3796,Embedding Usage,Usage analytics,27231,Active tenants
+3796,Embedding Usage,Usage analytics,27238,Views by user agent
+3796,Embedding Usage,Usage analytics,27235,Public link views
+3796,Embedding Usage,Usage analytics,27232,Most viewed public links
+3796,Embedding Usage,Usage analytics,27234,Views by embedding host
+529,EV Duration Share,Sven Huybrechts's Personal Collection,4658,AH Leasing Share 24M EV
+3136,EV Grant DE,Our analytics (root),18383,DE EV Grant : EV Config Share below 53.3k RRP
+3136,EV Grant DE,Our analytics (root),18384,DE EV Grant : EV Config Share All
+3367,Finance info,Carwow / UK / SMC Trading / Laura B,20725,Upload and Sale Dates
+3367,Finance info,Carwow / UK / SMC Trading / Laura B,20726,Event details
+3169,GYC DE : AVCOD / Supply,Our analytics (root),18977,AVCOD Q3/Q4
+3169,GYC DE : AVCOD / Supply,Our analytics (root),18978,GYC DE : AVCOD Q3 vs Q4 per model
+3169,GYC DE : AVCOD / Supply,Our analytics (root),26731,AVCOD/Configs Q4 2025 - Q2 2026
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),13764,GYC DE : Pausierte Händler (letzte 2 Wochen)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),13861,GYC DE : Model  Level Offer Distance Increase (Top 20% Configured Models Only)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),13862,GYC DE: Make level ACOD WoW Change
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),13993,GYC DE : New Active Accounts
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),13994,GYC DE : Model Level Offer Distance Improved (Top 20% Configured Models Only)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14191,Model supply low lights prior week vs 2 weeks ago
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14192,Make supply previous week WoW
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14690,GY DE : Dealer Pause Value
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14691,WoW Churn - Estimated Lost Monthly CE Revenue (based on past 30 day CEs x 50)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14692,WoW Akquisition - Estimated Won Monthly CE Revenue (based on first 30 day CEs x 50)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14694,Net Dealer Movement Revenue Impact
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),14720,GYC DE : LCV CE Share over time
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),18118,GYC DE : Net Dealer Movement Revenue Impact (approximation)
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),18284,SMC DE : Händler Bid Details inkl Uhrzeit
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),18580,GYC DE :  Dealer Contacts - all active accounts ; incl CE info YTD
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),18812,GYC DE : YTD Leasing CEs Group Level
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),18844,GYC DE : Dealer & AVCOD Q4 Tracking
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19834,GYC DE : Dealership State Summary 2025
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19867,GYC DE  : Weekly Funnel Stats
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19900,GYC DE  : Monthly Funnel Stats
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19901,GYC DE  : Quaterly Funnel Stats
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19902,GYC DE Stock level per dealer
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),19904,weekly gyc stats
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),20033,GYC DE : LMS Enabled
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),23531,Net Dealer Movement Revenue Impact - Q4 25
+2641,GYC DE : Weekly Supply Changes ,Our analytics (root),23365,SMC DE BEV
+166,javi_test_dashboard,Javier Chamorro's Personal Collection,4016,javi_test_query
+826,LDM Dash,Sven Huybrechts's Personal Collection,6119,V3 LDM Inflow - Weekly
+826,LDM Dash,Sven Huybrechts's Personal Collection,6140,V3 LDM Inflow - Daily
+826,LDM Dash,Sven Huybrechts's Personal Collection,6142,Deal_Count_Yesterday_Jan
+826,LDM Dash,Sven Huybrechts's Personal Collection,6143,Deal_Count_Yesterday_Moritz
+3664,Leasing,Burak Yilmaz's Personal Collection,26203,Coverage vs. Last 90 Days
+3664,Leasing,Burak Yilmaz's Personal Collection,26270,Engine Supply per Make-Fuel Type
+3664,Leasing,Burak Yilmaz's Personal Collection,26237,Active Deals WoW
+3664,Leasing,Burak Yilmaz's Personal Collection,26271,Inactive/Stale Dealerships
+3664,Leasing,Burak Yilmaz's Personal Collection,26236,Derivatives covered by Engine-Only
+3664,Leasing,Burak Yilmaz's Personal Collection,26269,Active Deals vs. Peak 90 Days (Make-Level)
+3664,Leasing,Burak Yilmaz's Personal Collection,26368,Potential Recovery Engine Deals (TOTAL)
+3664,Leasing,Burak Yilmaz's Personal Collection,26369,Dealers with Loss in Engine Supply
+3664,Leasing,Burak Yilmaz's Personal Collection,26370,Top Drop-Offs (Absolut)
+3664,Leasing,Burak Yilmaz's Personal Collection,26371,Top 20 - Complete Engine Churn
+2014,Listing Details,Laura Brenninkmeijer's Personal Collection,10761,Listing Details
+3763,LT5Offers Analysis,Salome Hörmann's Personal Collection,26764,LT5Offers Analysis
+465,Metabase metrics,Usage analytics,4547,Active users last week
+465,Metabase metrics,Usage analytics,4530,Question views last week
+465,Metabase metrics,Usage analytics,4534,Question views per week
+465,Metabase metrics,Usage analytics,4548,Weekly active users
+465,Metabase metrics,Usage analytics,4532,Questions created last week
+465,Metabase metrics,Usage analytics,4545,Dashboards created last week
+465,Metabase metrics,Usage analytics,4521,Alerts and subscriptions created last week
+465,Metabase metrics,Usage analytics,4531,Most viewed dashboards
+465,Metabase metrics,Usage analytics,4533,Most viewed cards
+465,Metabase metrics,Usage analytics,4546,Most active viewers
+465,Metabase metrics,Usage analytics,4510,Most active creators
+133,Miguel Dashboard,Miguel Roca's Personal Collection,174,Dates test
+133,Miguel Dashboard,Miguel Roca's Personal Collection,13,Miguel Test
+133,Miguel Dashboard,Miguel Roca's Personal Collection,173,Miguel Saved
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,14686,Monatliche Visits pro Partner
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,14687,Monatliche Chargeable Enquiries
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,14688,Monatliche Listings Completed
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,14689,Monatliche Listings Sold
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,16171,Type of CEs per partner 
+2807,📊 | Monthly Affiliate Overview ,Alexa von Bogdandy's Personal Collection,7362,Models über Affiliate Channel (past 7 Days) 
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14587,Signups
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14588,Completed Listings
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14590,Gross Sales
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14591,Collections
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14592,S2CL
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14593,CL2U
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14594,U2S
+2773,Monthly Roundup,Carwow / UK / SMC Trading / Laura B,14595,Net Revenue
+468,Most viewed content,Usage analytics,4543,Most viewed dashboards
+468,Most viewed content,Usage analytics,4541,Most viewed questions
+468,Most viewed content,Usage analytics,4535,Most viewed tables
+468,Most viewed content,Usage analytics,4538,Most viewed models
+3466,Net Sales by SMC Dealer Group,Our analytics (root),21253,Net Sales by SMC Dealer Group
+3268,New Daily Conversion,Carwow / UK / SMC Trading / Laura B,13300,Daily Performance
+3268,New Daily Conversion,Carwow / UK / SMC Trading / Laura B,21121,U2AS by Price Band
+3268,New Daily Conversion,Carwow / UK / SMC Trading / Laura B,21518,Max v Res by Price Band
+3268,New Daily Conversion,Carwow / UK / SMC Trading / Laura B,21847,S2CL in 24h by Price Band
+463,Performance overview,Usage analytics,4503,Slowest dashboards
+463,Performance overview,Usage analytics,4500,Dashboards consuming most resources
+463,Performance overview,Usage analytics,4498,Dashboards with more questions in the same tab
+463,Performance overview,Usage analytics,4494,Slowest questions
+463,Performance overview,Usage analytics,4502,Users consuming most resources
+463,Performance overview,Usage analytics,4504,Questions consuming most resources
+463,Performance overview,Usage analytics,4499,Total time spent on sync per day
+463,Performance overview,Usage analytics,4496,Total time looking for field values per day
+463,Performance overview,Usage analytics,6458,Weekly cache hit rate
+463,Performance overview,Usage analytics,6461,90th percentile of query run time (seconds)
+463,Performance overview,Usage analytics,6460,50th and 90th percentile of query running time (seconds)
+463,Performance overview,Usage analytics,6459,Total number of queries
+3103,Performance | Top Make Models ,Alexa von Bogdandy's Personal Collection,24949,Top Make Models per Month (start 01/01/26) 
+3070,Performance Top Models ,Alexa von Bogdandy's Personal Collection,17954,Make Model Dashboard // Modelldaten Details
+464,Person overview,Usage analytics,4529,Active alerts
+464,Person overview,Usage analytics,4537,Member of
+464,Person overview,Usage analytics,4539,Question views per month
+464,Person overview,Usage analytics,4515,Questions created per month
+464,Person overview,Usage analytics,4540,Person detail
+464,Person overview,Usage analytics,4536,Last viewed questions
+464,Person overview,Usage analytics,4517,Last viewed tables
+464,Person overview,Usage analytics,4523,Last viewed dashboards
+464,Person overview,Usage analytics,4544,Last viewed models
+464,Person overview,Usage analytics,4492,Last queries
+464,Person overview,Usage analytics,4524,Recent activity
+464,Person overview,Usage analytics,8948,Last downloads
+464,Person overview,Usage analytics,8946,Most viewed dashboards
+464,Person overview,Usage analytics,8945,Most viewed questions
+464,Person overview,Usage analytics,8947,Most viewed tables
+464,Person overview,Usage analytics,8944,Most viewed models
+3598,Pricing Changes,Carwow / UK,22212,Model Reserve v CAP - all segments - Duplicate
+3598,Pricing Changes,Carwow / UK,22213,Valuation v CAP - all segments
+3598,Pricing Changes,Carwow / UK,22214,Price Drop
+3598,Pricing Changes,Carwow / UK,22215,% of Stock
+3598,Pricing Changes,Carwow / UK,23101,Auction Stats
+3598,Pricing Changes,Carwow / UK,23266,S2CL and CL
+3598,Pricing Changes,Carwow / UK,23267,CL2U and U
+3598,Pricing Changes,Carwow / UK,23268,U2S and S
+3598,Pricing Changes,Carwow / UK,23269,S2GS
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14719,Volume Upload by Week
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14721,Valuation and Reserve v CAP
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14722,Max offer v Val and Auction Reserve
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14752,Max Offer v Val by Pricing Segment
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14753,Max Offer v Val by Pricing Segment - Graph
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14930,Valuation and Reserve v CAP - A. £0-2.5k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14931,Max offer v Val and Auction Reserve - A. £0-2.5k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14935,S2CL - A. £0-2.5k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14936,CL2U - A. £0-2.5k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14937,U2S - A. £0-2.5k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14938,Valuation and Reserve v CAP - B. £2.5-5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14939,Max offer v Val and Auction Reserve - B. £2.5-5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14940,S2CL - B. £2.5-5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14941,CL2U - B. £2.5-5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14942,U2S - B. £2.5-5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14943,Valuation and Reserve v CAP - C. £5-7.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14944,Max offer v Val and Auction Reserve - C. £5-7.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14945,S2CL - C. £5-7.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14946,CL2U - C. £5-7.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14948,U2S - C. £5-7.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14949,Valuation and Reserve v CAP - D. £7.5-12.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14950,Max offer v Val and Auction Reserve - D. £7.5-12.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14951,S2CL - D. £7.5-12.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14952,CL2U - D. £7.5-12.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14953,U2S - D. £7.5-12.5k High
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14954,Valuation and Reserve v CAP - E. £2.5-7.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14955,Max offer v Val and Auction Reserve - E. £2.5-7.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14956,S2CL - E. £2.5-7.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14957,CL2U - E. £2.5-7.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14959,U2S - E. £2.5-7.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14960,Valuation and Reserve v CAP - F. £7.5-10k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14961,Max offer v Val and Auction Reserve - F. £7.5-10k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14962,S2CL - F. £7.5-10k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14963,CL2U - F. £7.5-10k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14964,U2S - F. £7.5-10k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14965,Valuation and Reserve v CAP - G. £10-12.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14966,Max offer v Val and Auction Reserve - G. £10-12.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14967,S2CL - G. £10-12.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14968,CL2U - G. £10-12.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14969,U2S - G. £10-12.5k Low
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14970,Valuation and Reserve v CAP - H. £12.5-15k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14971,Max offer v Val and Auction Reserve - H. £12.5-15k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14973,S2CL - H. £12.5-15k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14974,CL2U - H. £12.5-15k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14975,U2S - H. £12.5-15k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14976,Valuation and Reserve v CAP - I. £15-20k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14977,Max offer v Val and Auction Reserve - I. £15-20k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14978,S2CL - I. £15-20k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14979,CL2U - I. £15-20k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14980,U2S - I. £15-20k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14981,Valuation and Reserve v CAP - J. £20-30k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14982,Max offer v Val and Auction Reserve - J. £20-30k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14983,S2CL - J. £20-30k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14984,CL2U - J. £20-30k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14985,U2S - J. £20-30k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14986,Valuation and Reserve v CAP - K. £30-50k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14987,Max offer v Val and Auction Reserve - K. £30-50k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14988,S2CL - K. £30-50k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14989,CL2U - K. £30-50k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14990,U2S - K. £30-50k
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14991,Valuation and Reserve v CAP - L. £50k+
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14992,Max offer v Val and Auction Reserve - L. £50k+
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14993,S2CL - L. £50k+
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14994,CL2U - L. £50k+
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,14995,U2S - L. £50k+
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15445,Valuation and Reserve v CAP - No Val
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15446,Max offer v Val and Auction Reserve - No Val
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15447,S2CL - No Val
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15448,CL2U - No Val
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15449,U2S - No Val
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,15680,Volume by Signup Week
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,22210,Valuation v CAP - all segments
+2839,Pricing Segments,Carwow / UK / SMC Trading / Laura B,22211,Model Reserve v CAP - all segments
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10851,Conversion by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10854,Reserve vs Limit by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10858,Uploads by Team (Completion Date)
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10859,Auction Success Listing State by Completion Day
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10861,Completed Listings by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10862,Remaining Pipeline by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10863,Remaining Pipeline % by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10872,% BIN by Channel
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10873,CLs by Channel
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10848,Completed Listings by Team
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,10924,Completed Listings by Team - NEW
+2048,Project Connect Tracking,Carwow / UK / SMC Trading / Matt C,12937,Auction Success Pending Update Tracking
+466,Question overview,Usage analytics,4555,Question metadata
+466,Question overview,Usage analytics,4520,Question views per month
+466,Question overview,Usage analytics,4505,Dashboards with this question
+466,Question overview,Usage analytics,4553,Most active people on this question
+466,Question overview,Usage analytics,4554,Last activity on question
+466,Question overview,Usage analytics,4552,Alerts on this question
+466,Question overview,Usage analytics,4542,Last downloads
+1024,Salestrail Call Dashboard,Our analytics (root),6660,Salestrail Calls - today
+3037,Salestrail Call Dashboard - Duplicate,Carwow / Germany / OPS / Partner Operations  / Tenios / Phonenumbers,17491,Salestrail Calls - today
+1618,SMC Affiliate,Alexa von Bogdandy's Personal Collection,8747,Affiliate SMC Reporting  
+1618,SMC Affiliate,Alexa von Bogdandy's Personal Collection,9543,Cupra Deal Mar / Apr 2025
+2245,SMC DE Auction Metrics,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11882,SMC DE Bidding Dealers & Bids (Auctions vs 2nd Chance)
+2245,SMC DE Auction Metrics,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11929,Auction / 2nd Chance Sales
+2245,SMC DE Auction Metrics,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11953,"SMC DE - Auction vs 2nd Chance U2S & % offers, Bids"
+2245,SMC DE Auction Metrics,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11957,SMC DE Offer vs Trade in
+2245,SMC DE Auction Metrics,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11960,Sales : Offer accepted vs reserve
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11255,SMC DE Cross Sell Enquiries
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11257,SMC DE Cross Sales Sales
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),21055,SMC GYC Buyer Seller
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),21484,Auto Weber 2025
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),21583,SMC DE Forecast EOM Invoice
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22111,Configs lats 90 day Alexa
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22112,Configs lats 90 day Alexa - Modified
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22177,Configs lats 90 day Moritz (Used)
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22178,Moritz Configs Used (+CEs) models
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22216,DE SMC Cancellations !
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22342,Used Anfragen (Jan) -> alle (nicht nur CEs)
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22542,Churn DE over time (Edu)
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22543,Used Händler (Moritz) Liste ; verloren/ pausiert & gewonnen/reaktiviert
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22606,GYC DE : 2025 Churn (Suspended or Paused > 6 weeks) by Bucket (average past 6 months before churn)
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22607,GYC DE : Strategic vs non Strategic Churn
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22672,GYC DE : Churn / Redistibution
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22705,Churn Effect on CEs per make (June)
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22706,GYC DE Churn Effect CEs
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22871,Pausierte Händler GYC  (letzte 8 Wochen) -> Reaktivieren
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),22969,GYC DE : Reactivations
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),23398,SMC DE Gross Revenue per Week
+2179,SMC DE & GYC DE Cross Sell,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),23497,Q4 Händler Neu/Reaktiviert
+3631,SMC DE Invoicing,Our analytics (root),24190,SMC DE - Gross Sales (& cancellation info)
+3631,SMC DE Invoicing,Our analytics (root),24223,Forecast Gross Sales SMC DE (March)
+3631,SMC DE Invoicing,Our analytics (root),24224,SMC DE - cancellation %
+3631,SMC DE Invoicing,Our analytics (root),21584,SMC DE Forecast Revenue / Based on Invoicing Logic &  current Month Runrate
+1915,SMC DE - Liquidity,Our analytics (root),10576,SMC DE - Liquidity Fuel Types
+1915,SMC DE - Liquidity,Our analytics (root),10577,SMC DE - Liquidity Mileage
+1915,SMC DE - Liquidity,Our analytics (root),10578,SMC DE - Liquidity Makes
+1915,SMC DE - Liquidity,Our analytics (root),10845,SMC DE : Max offers vs Reserve over time
+1915,SMC DE - Liquidity,Our analytics (root),10846,SMC DE - Max offer vs Trade-in
+1915,SMC DE - Liquidity,Our analytics (root),10852,SMC DE - Reserve vs Trade in
+1915,SMC DE - Liquidity,Our analytics (root),11320,SMC DE Trade-in vs Max Offer (AU Data Quality)
+1915,SMC DE - Liquidity,Our analytics (root),11386,SMC DE Sold cars max offer vs trade-in (per Car Type)
+1915,SMC DE - Liquidity,Our analytics (root),11554,Used Enquiries
+1915,SMC DE - Liquidity,Our analytics (root),12508,SMC DE - Priority Scores Pre Qual
+1915,SMC DE - Liquidity,Our analytics (root),12509,SMC DE Pre Qual Prio
+1915,SMC DE - Liquidity,Our analytics (root),10603,SMC DE - Liduidity Sums
+1948,SMC DE - Liquidity - Laura Copy UK,Laura Brenninkmeijer's Personal Collection,10604,SMC UK - Liquidity Fuel Type
+1948,SMC DE - Liquidity - Laura Copy UK,Laura Brenninkmeijer's Personal Collection,10605,SMC UK - Liquidity Mileage
+1948,SMC DE - Liquidity - Laura Copy UK,Laura Brenninkmeijer's Personal Collection,10606,SMC UK - Liquidity Makes
+1948,SMC DE - Liquidity - Laura Copy UK,Laura Brenninkmeijer's Personal Collection,10607,SMC DE - Liduidity Sums
+1948,SMC DE - Liquidity - Laura Copy UK,Laura Brenninkmeijer's Personal Collection,10624,SMC UK - Liquidity Total - Modified
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10234,SMC DE average CL milage etc over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10236,SMC DE: Top 10 Makes over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10235,SMC DE : Top 10 Models over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10264,SMC DE - Pre Qual : Reserves vs Trade-in +1-10% Buckets
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10297,SMC DE Sold cars average milage etc over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10300,SMC DE - Distribution per Metric (for buckets)
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10301,SMC DE - CL Age over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10302,SMC DE - Listing mileage buckets over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10303,SMC DE - Listing Values buckets over time
+1816,SMC DE - Listing Types over Time,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),10495,SMC DE Top Models
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10614,SMC DE - New Bidding Dealers
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10617,SMC DE - Weekly Active Dealers
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10613,SMC DE - Buy Now Enabled
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10608,SMC DE - Collections
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10610,SMC DE - Invoice (Sales after 20 previous month considered)
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10615,SMC DE - Revenue (Collections current month)
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10612,SMC DE - CL2U (weekly cohort)
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10620,SMC DE - Buying Dealers WoW
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10609,SMC DE - U2S (weekly cohort)
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10619,SMC DE Pricing / Ranges
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10618,SMC DE - Bid Quality
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10616,SMC DE - New Buying Dealers
+1949,SMC DE - May Tracking - Duplicate,Laura Brenninkmeijer's Personal Collection,10611,SMC DE - New Buying Dealers
+1882,SMC DE - Monthly Tracking,Our analytics (root),10562,SMC DE - Weekly Active Dealers
+1882,SMC DE - Monthly Tracking,Our analytics (root),10564,SMC DE - Collections
+1882,SMC DE - Monthly Tracking,Our analytics (root),10601,SMC DE - New Buying Dealers
+1882,SMC DE - Monthly Tracking,Our analytics (root),10602,SMC DE - New Buying Dealers
+1882,SMC DE - Monthly Tracking,Our analytics (root),10621,SMC DE Churn WoW
+1882,SMC DE - Monthly Tracking,Our analytics (root),10622,SMC DE - Reactivation WoW
+1882,SMC DE - Monthly Tracking,Our analytics (root),10397,SMC DE - New Active Dealer Conversion to Buyers
+1882,SMC DE - Monthly Tracking,Our analytics (root),10793,SMC DE - Sales per Week
+1882,SMC DE - Monthly Tracking,Our analytics (root),10794,SMC DE - Collection / Cancellation Rate %
+1882,SMC DE - Monthly Tracking,Our analytics (root),10869,SMC DE - Comletion 2 Upload TimeFrame
+1882,SMC DE - Monthly Tracking,Our analytics (root),10958,SMC DE - Collections / Cancellations since Launch
+1882,SMC DE - Monthly Tracking,Our analytics (root),12046,SMC DE Rejections - Modified
+1882,SMC DE - Monthly Tracking,Our analytics (root),12047,SMC DE - Total Bids per Week
+1882,SMC DE - Monthly Tracking,Our analytics (root),12807,SMC DE : Dealer / Upload Ratio
+1882,SMC DE - Monthly Tracking,Our analytics (root),14488,SMC DE - Buying Dealers +10 cars per month
+1882,SMC DE - Monthly Tracking,Our analytics (root),8924,SMC DE - Uploads
+1882,SMC DE - Monthly Tracking,Our analytics (root),10596,SMC DE - CL2U (weekly cohort)
+1882,SMC DE - Monthly Tracking,Our analytics (root),10563,SMC DE - Buy Now Enabled
+1882,SMC DE - Monthly Tracking,Our analytics (root),10597,SMC DE - Buying Dealers WoW
+1882,SMC DE - Monthly Tracking,Our analytics (root),10598,SMC DE - U2S (weekly cohort)
+1882,SMC DE - Monthly Tracking,Our analytics (root),10600,SMC DE - Bid Quality
+1882,SMC DE - Monthly Tracking,Our analytics (root),9870,SMC DE Pricing / Ranges
+1882,SMC DE - Monthly Tracking,Our analytics (root),25741,SMC DE - Revenue Monthly Tracker
+1882,SMC DE - Monthly Tracking,Our analytics (root),26005,SMC DE CL by Channel
+1882,SMC DE - Monthly Tracking,Our analytics (root),28217,SMC DE: RPS Tracker - Duplicate
+2146,SMC DE Pre Qual : Buy Now / Pricing,Carwow / Germany / MARKETPLACE / Selina (mainly SMC),11129,SMC DE - U2S impact Buy Now
+2377,SMC DE Pricing,Selina Dilger's Personal Collection,12013,SMC DE Pricing Sold cars
+2377,SMC DE Pricing,Selina Dilger's Personal Collection,19671,SMC DE Pricing Tool Raw Data.
+2377,SMC DE Pricing,Selina Dilger's Personal Collection,20692,SMC DE - Uploads
+430,SMC Office Screens,Carwow / UK,4469,SMC Cars Collected 2024
+430,SMC Office Screens,Carwow / UK,4795,Cars Collected MTD
+430,SMC Office Screens,Carwow / UK,4796,Collected Revenue MTD
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,10364,SMC DE Buying dealers
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,10399,SMC DE - Retention Bidding Dealers Monthlx
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,10429,SMC DE Invoicing per month (in Pound!!)
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,9507,SMC DE - Active Dealer Segmentation
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,10569,SMC DE - Churn
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,10570,SMC DE - Reactivation
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,11125,SMC DE New Bidding Dealer Bids
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,13368,Verkaufte Autos an Händler
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,13369,SMC DE - Sum of Sales per Dealer
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,13736,SMC DE - top buying dealers per week
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,14423,SMC DE : Top Bidding Dealers
+1354,SMC Office Screens - DE - Commercial,Selina Dilger's Personal Collection,14456,SMC DE : Monthly Buying Dealers
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8917,SMC DE - CL2U Rate Daily
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8918,SMC DE - Uploads vs Yesterday Uploads
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8919,SMC DE - Completed Listings vs Previous Day
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8920,SMC DE - Gross Sales
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8921,SMC DE - Collections (Net Sales)
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8922,SMC DE Collections Today vs Yesterday
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8923,SMC DE Sales Today vs Yesterday
+1585,SMC Office Screens - DE - Sales,Our analytics (root),8925,SMC DE Upload 2 Sale
+1420,Springer SMC ,Alexa von Bogdandy's Personal Collection,8292,Autobild SMC Report
+1420,Springer SMC ,Alexa von Bogdandy's Personal Collection,8449,Autobild SMC Report (Monthly) - Content Overview
+2212,sqi,Our analytics (root),11888,Pricing Test by Valuation Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11089,Uploads SH
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11127,U2S by Service History
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11131,Uploads Mileage
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11132,U2S by Mileage Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11133,Uploads Age
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11134,U2S by Age Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11135,Avg Mileage Over Time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11136,Avg Age Over Time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11137,Cars with SH = none over Time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11200,Uploads SQI Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11201,U2S by SQI Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11202,Uploads SH - % over Time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11203,Uploads Mileage - % over time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11205,Uploads Age - % over time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11749,Uploads SQI Band - Over time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11750,Uploads SQI Band - Over time - Modified
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11783,Uploads Valuation Band
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11784,Uploads Valuation Band - % over time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11785,U2S by Valuation Band - Modified
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,11786,Avg Valuation Over Time
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,13664,Uploads Grade
+2113,Stock Mix,Carwow / UK / SMC Trading / Laura B,13944,Uploads Fuel Type
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10660,Signups by Fuel Type
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10661,Uploads by Fuel Type
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10662,Sales by Fuel Type
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10664,Uploads by Mileage Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10665,Sales by Mileage Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10666,Signups by Mileage Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10667,Signups by Bodystyle
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10668,Uploads by Bodystyle
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10669,Sales by Bodystyle
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10670,Signups by Age Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10672,Upload by Age Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10673,Sales by Age Band
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10674,Signups by Service History
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10675,Uploads by Service History
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10676,Signups by Service History - Modified
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10677,Signups by Make
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10678,Uploads by Make
+1981,Stock Mix,Laura Brenninkmeijer's Personal Collection,10679,Sales by Make - Modified
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10827,Sales by Bodystyle
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10836,Upload by Age Band
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10828,Sales by Age Band
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10837,Sales by Fuel Type
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10833,Uploads by Service History
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10831,Signups by Service History - Modified
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10832,Uploads by Fuel Type
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10841,Uploads by Make
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10839,Sales by Make - Modified
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10840,Uploads by Mileage Band
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10842,Sales by Mileage Band
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10829,Uploads by Bodystyle
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10843,Uploads within Criteria
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10844,Uploads
+2047,Stock Mix - Duplicate,Laura Brenninkmeijer's Personal Collection,10847,Sales for Chosen Dealer by Upload Day
+991,Stock Sourcing,Carwow / Germany / OPS / Stock/Used Data / Stock Sourcing Tracking,6539,Stocksupplydata - TV Dash
+991,Stock Sourcing,Carwow / Germany / OPS / Stock/Used Data / Stock Sourcing Tracking,6571,Live Stock & Used Count
+993,Stock Sourcing - TV Dash,Sven Huybrechts's Personal Collection,6539,Stocksupplydata - TV Dash
+993,Stock Sourcing - TV Dash,Sven Huybrechts's Personal Collection,6571,Live Stock & Used Count
+993,Stock Sourcing - TV Dash,Sven Huybrechts's Personal Collection,6651,DE Supply - New Stock - Live - Progress
+993,Stock Sourcing - TV Dash,Sven Huybrechts's Personal Collection,6773,Wiedervorlage_OTDs
+3697,test,Konstantin Schubert's Personal Collection,12343,Paused Accounts
+3697,test,Konstantin Schubert's Personal Collection,10759,Account Manager Markenzuordnung
+3697,test,Konstantin Schubert's Personal Collection,26797,ACOD Test
+3697,test,Konstantin Schubert's Personal Collection,26798,Umsatz test
+232,Test,Chris Hart's Personal Collection,4210,"Makes With Am, Count, Grouped by Make"
+102,test cor share,Jaime García's Personal Collection,186,COR share by make
+2278,{Test} Dealer Leasing Performance,Alexa von Bogdandy's Personal Collection,11927,DE:LMS Dealer Performance - Duplicate
+100,Test leads by dealer,Jaime García's Personal Collection,121,Leads by dealer Pablo
+3829,Test LT5,Salome Hörmann's Personal Collection,28084,LT5 excl mercedes and mini
+3433,Top 10 ,Carwow / UK / SMC Trading / Laura B,20956,Makes Listed
+3433,Top 10 ,Carwow / UK / SMC Trading / Laura B,20957,Makes Sold
+3433,Top 10 ,Carwow / UK / SMC Trading / Laura B,20958,Models Listed
+3433,Top 10 ,Carwow / UK / SMC Trading / Laura B,20959,Models Sold
+3433,Top 10 ,Carwow / UK / SMC Trading / Laura B,20960,Total Cars Sold
+595,Transport invoice,Carwow / Operations,4694,syc_finance_cars_collectionpending_last8months
+595,Transport invoice,Carwow / Operations,6078,SMC_sales_data_last_8months
+595,Transport invoice,Carwow / Operations,1156,syc_finance_cars_cancelled_last8months
+2080,"Uploads, Bids and Sales",Carwow / UK / SMC Trading / Laura B,10876,Uploads by Day
+2080,"Uploads, Bids and Sales",Carwow / UK / SMC Trading / Laura B,10877,Uploads by Day - With Criteria
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17133,Used Accounts with KPI´s
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17134,Used Stock live
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17135,Stock & Used live Deals
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17136,Used Stock live
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17137,Used Accounts by State
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,10309,Weekly Used Fluctuation
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17138,Used CE´s by day
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17140,Model Overview
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17162,Avg. Mapping Quote
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17163,Avg. Used CE´s per Day
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17227,Weekly CE´s
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17854,Used CE´s by day
+2972,Used Car Dashboard,Carwow / Germany / OPS / Till,17194,Detailed Stock & Used Supply
+1256,Used Cars Overview,Shanil Mehta's Personal Collection,7579,Used Cars Live
+1256,Used Cars Overview,Shanil Mehta's Personal Collection,7582,Dealerships Live
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6779,Stock/Used Supply Data
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6781,Used Accounts
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6649,DE Supply - Used
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6778,ACCOUNT_STATUS_USED_ACCOUNTS
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6835,TOTAL ACCOUNTS USED
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,6898,TOTAL_ACCOUNTS_CREATED_USED_ACCOUNTS
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,7366,"Live Used Accounts - WITHOUT LIVE CARS, Count"
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,7661,Paused Used Accounts
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,8054,Daily New Used Accounts
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,10566,USED ACCOUNTS (Not_Onboarded)
+1123,Used - Dashboard,Carwow / Germany / OPS / Stock/Used Data / Used,23959,USED ACCOUNTS (Not_Onboarded) - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7563,Stock/Used Supply Data - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7564,Used Accounts - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7565,ACCOUNT_STATUS_USED_ACCOUNTS - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7567,TOTAL ACCOUNTS USED - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7568,TOTAL_ACCOUNTS_CREATED_USED_ACCOUNTS - Duplicate
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7569,"Used Accounts - WITHOUT LIVE CARS, Count - Duplicate"
+1255,Used - Dashboard - UK,Carwow / Germany / OPS / Stock/Used Data / Used,7570,"Live Used Accounts - WITHOUT LIVE CARS, Count - Duplicate"
+1751,Used Overview,Our analytics (root),10071,Used Dealer KPI´s
+1849,Used Overview,Carwow / Germany / OPS / Till,10309,Weekly Used Fluctuation
+1849,Used Overview,Carwow / Germany / OPS / Till,10529,Used  Supply Change  last 7 days
+1849,Used Overview,Carwow / Germany / OPS / Till,10068,Average Standtage & Reply Time Used
+1750,Used Standdays,Our analytics (root),10068,Average Standtage & Reply Time Used
+3301,Volumes w/c17th,Carwow / UK / SMC Trading / Laura B,19966,CL and Uploads
+3301,Volumes w/c17th,Carwow / UK / SMC Trading / Laura B,19967,Closed Listing (Pre and Post upload)
+3961,Win the Week,Carwow / UK / SMC Trading / Laura B,28777,Daily Gross Revenue - Last 7 Days vs Last Week
+3961,Win the Week,Carwow / UK / SMC Trading / Laura B,28779,Weekly Gross Revenue - Last 5 Weeks vs Last year
+3961,Win the Week,Carwow / UK / SMC Trading / Laura B,28810,Gross Revenue  Week To Date
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6909,Message Tracking
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6905,Messages User
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6904,Total Messages (User <-> wowPilot)
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6906,Messages GPT 
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6910,Enquiries handled
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6911,Message Tracking over Time
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6912,Handover Share Co-Pilot
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,6908,Message sent share
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,9770,wow-Pilot - Aktive Händleranzahl
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,9771,wow-Pilot - Aktive Händlergruppenanzahl
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,10765,wow-Pilot - Aktive Händlergruppen
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,11155,Daily Enquiries handled - Last 60 Days
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,11190,MISSED REVENUE WOW-PILOT - Modified
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,11192,Revenue
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,11193,Enquiries handled - Non-Chargeable
+1156,wow-Pilot - Dashboard,Carwow / Germany / OPS / Enquiry GPT,11194,Test Dealerships

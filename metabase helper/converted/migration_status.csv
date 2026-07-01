@@ -1,0 +1,5 @@
+id,name,original_category,current_status,failure_reason,notes
+1,TEST Metabase,syntax_clean,pending,,DATE_TRUNC arg order + current_date()-3 fixed
+37,C2E: Mercedes Flip UK,syntax_clean,pending,,ILIKE x2 + DATE_TRUNC arg order + alias self-ref inlined
+23794,PIPELINE FORECAST,syntax_clean_verify_data,pending,,DATE_DIFF may need TIMESTAMP_DIFF if ORDER_STATE_COLLECTED_AT is TIMESTAMP not DATE
+23567,DE: Daily Funnel - New Data Model - Weekly,syntax_clean,pending,,Heavy structural rewrite: nested CTEs flattened + GENERATOR/SEQ4 → GENERATE_ARRAY + VALUES → UNION ALL + double-quoted aliases → backticks
