@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mkdir -p .wire/releases/01-metabase-migration/artifacts .wire/releases/01-metabase-migration/planning)",
-      "Bash(touch .wire/releases/01-metabase-migration/artifacts/.gitkeep)"
-    ]
-  }
-}

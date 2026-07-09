@@ -14,3 +14,7 @@ __pycache__/
 
 # Scratch files
 *.json.bak
+
+# Claude Code and Wire session data
+.claude/
+.wire/
