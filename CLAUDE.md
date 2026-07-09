@@ -33,7 +33,7 @@ The full list of flagged keywords is maintained in `BQ_INCOMPATIBLE_KEYWORDS` in
 |---|---|
 | `ILIKE` | `LOWER(col) LIKE LOWER(pattern)` |
 | `DATEADD(part, n, date)` | `DATE_ADD(date, INTERVAL n part)` |
-| `DATEDIFF(part, a, b)` | `DATE_DIFF(a, b, part)` |
+| `DATEDIFF(part, a, b)` | `DATE_DIFF(b, a, part)` — arguments are **swapped**: Snowflake returns `b−a`; BigQuery `DATE_DIFF(x,y,part)` returns `x−y`, so swap to preserve sign |
 | `NVL(a, b)` | `COALESCE(a, b)` |
 | `DECODE(col, v1, r1, ...)` | `CASE WHEN` |
 | `REGEXP_SUBSTR` | `REGEXP_EXTRACT` |

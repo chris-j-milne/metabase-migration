@@ -1,0 +1,16 @@
+# API keys — never commit
+.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Large data exports (regenerate with export-csv)
+*.csv
+
+# Scratch files
+*.json.bak
